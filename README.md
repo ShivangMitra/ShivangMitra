@@ -1,7 +1,7 @@
-<div align="center"  ><img width="50%" height="auto" src="https://cdnb.artstation.com/p/assets/images/images/022/868/801/original/mathieu-giteau-animation0001-0090.gif?1577021866"/></div>
+<!-- <div align="center"  ><img width="50%" height="auto" src="https://cdnb.artstation.com/p/assets/images/images/022/868/801/original/mathieu-giteau-animation0001-0090.gif?1577021866"/></div> -->
 <!-- <h1 align="center"><h1 style="background-image: url(https://i.redd.it/nrp85afvsyy41.gif); background-repeat:no-repeat; background-size: cover; height: 300px; width: 500px; box-shadow: 0 0 8px 8px rgba(13,17,23,1) inset; color: red;">hello</h1></h1>
 <br/> -->
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shivang <br/>You happen to catch me on a break!</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shivang</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 ## 🙋‍♂️ About Me
