@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 
 <!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
-- 🔭 I’m currently working as a Frontend React Developer at **[Live247.ai](https://live247.ai/live247/live247/index.html)**
+<!-- - 🔭 I’m currently working as a Frontend React Developer at **[Live247.ai](https://live247.ai/live247/live247/index.html)** -->
 
 - 🌱 I’m currently learning **Cyber Security**
 
@@ -34,6 +34,10 @@
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
+    <a href="https://docs.soliditylang.org/en/v0.8.15/" target="_blank"> <img src="https://img.icons8.com/ios/50/22C3E6/solidity.png"/> </a>
+    <a href="https://ethereum.org/en/" target="_blank"> <img src="https://img.icons8.com/nolan/64/ethereum.png"/> </a>
+    <a href="https://opensea.io/" target="_blank"> <img src="https://img.icons8.com/cotton/64/000000/nft.png"/> </a>
+    <a href="https://www.blockchain.com/" target="_blank"> <img src="https://img.icons8.com/external-others-cattaleeya-thongsriphong/64/1A1A1A/external-Blockchain-blockchain-others-cattaleeya-thongsriphong-5.png"/> </a>
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <!-- <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a>  -->
