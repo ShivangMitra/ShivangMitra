@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 
 <!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
-<!-- - 🔭 I’m currently working as a Frontend React Developer at **[Live247.ai](https://live247.ai/live247/live247/index.html)** -->
+- 🔭 I’m currently working as a Blockchain Developer at **[SWOT Software Services](https://www.swotsoftware.com/home)**
 
 - 🌱 I’m currently learning **Cyber Security**
 
