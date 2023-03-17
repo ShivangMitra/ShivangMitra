@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 
 <!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
-- 🔭 I’m currently working as a Blockchain Developer at **[SWOT Software Services](https://www.swotsoftware.com/home)**
+- 🔭 I’m currently working as a Freelance Blockchain Developer
 
 - 🌱 I’m currently learning **Cyber Security**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **shivangmitra8@gmail.com**
 
-- ⚡ Fun fact **I play video games in my free time**
+- ⚡ Fun fact **I have a YouTube channel [CodeCove](https://www.youtube.com/@codecoveCC)**
 
 ## 🚀 Languages and Tools:
 
